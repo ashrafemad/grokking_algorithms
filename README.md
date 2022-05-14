@@ -8,5 +8,6 @@
 
 
 ## Running tests
-`python run_tests.py`
+1- `source venv/bin/activate` where venv is your virtualenv directory
 
+2- `python3 -m unittest discover`
